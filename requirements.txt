@@ -171,7 +171,6 @@ tensorflow
 testpath
 tflearn
 Theano
-tkinter
 toolz
 tornado
 TPOT
