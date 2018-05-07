@@ -170,7 +170,6 @@ tabulate
 tensorflow
 testpath
 tflearn
-tfrbm
 Theano
 tkinter
 toolz
