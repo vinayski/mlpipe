@@ -186,5 +186,4 @@ wrapt
 xgboost
 xlrd
 XlsxWriter
-xlwings
 xlwt
