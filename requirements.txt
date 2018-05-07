@@ -164,7 +164,7 @@ spyder
 SQLAlchemy
 statsmodels
 sympy
-TA-Lib
+#TA-Lib
 tables
 tabulate
 tensorflow
