@@ -80,7 +80,6 @@ lxml
 MarkupSafe
 marshmallow
 matplotlib
-menuinst
 mglearn
 mistune
 more-itertools
